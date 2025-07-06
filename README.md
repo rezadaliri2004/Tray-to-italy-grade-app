@@ -1,2 +1,3 @@
-# Tray-to-italy-grade-app
-App nomre ha
+# Try to Italy App
+
+A GPA calculator Android app using Flutter.
